@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "third-runway-265112",
+  "private_key_id": "2442f84664f2353e972ad5b3d5ce2f056df56c65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuJHAPRgUVLbYa\n93ZNkKJe6uJKf03YBoA8NJnEZ1Wl856zVqPaOsyinBCJPd2wyBCV6IHeYJl6L8NX\nwReluE84DiGeYrYoakX0s8hKmUpcDOBNR58puYQ9rU7e7WOwkYI8KqzjHoxRYZP3\n5Vq37yPPxRsBlPDEMvUDQ+cT9uCjBBLmvRZa60fV7IYVxmfxXaihYHnILQW1dETg\nLP9ywOG37eJ2mVD/4yOGuSESjVmUTopjK9VSuUUvzMDKOepd2uKLm47G2Z2mUzch\nj/sm4J94J4HKw9the821OxQI9zMEsCPkrjcbE2KyllGMgp79kp6Ze+xCu7LezDoV\nrm08x7RbAgMBAAECggEAVM+uO+IQK6ZdoHiRB2m/ipa+qyWhFerknW3Izdy929rw\nmctCddBZRYDYlN6qj6SAX2IjjdhiJx4H9z81cyJ2gohvWyIcMUbA11KP47UQgBBN\nVZXiMIIHo7o6RVw8Rww273KhTOPd1uy9EeiD7Dztpg0LABQ3xnZC2dpCOnjsIrfV\nL4OVcK3PvAFhY6m5NUOuz3RDhRK4XMWSXyQSeTLIdedZkH7Uo4X0iTPYfW7ByPoR\np7hKjD+4oIiWCL8A+IIX5D3PYyF4P58aPO4kqR/VU76707x4FxZY9LshZtyss7b9\nazrXJCge2wy3Xn80V+at7iot/GZ7FWvrVy23Zzf4kQKBgQDf8tY69A223UmETob+\nAEc8PiYjpxt322qgBzV/2wHH0BGmu6u0BHXfjDWDhTsABAgkhicoN67L31BC9MH3\nvqBvw0WNKTbDm7kb72YSv/XBQXW3Gy0E7+8VVT2tllhoqeLQAS/crhstlZhwpsEL\nnk42xJsg+UE9AYzDmDQS2Pq2nwKBgQDHEMUEySfE5dPffXc62moTwFqadByH31kJ\nydo+FjRZLq7r5RS+kcJhEV6gip3kyVWZjKs2ejHQ0QvIPOStN041MrT4/oBiZenE\neju7lsvTKip478iIzuOtv0Hc0KstfFB8mWXKk7sVLpu4OTq+UkQFnwLdO3ydMqSI\nIGYi+fNUxQKBgQCUWDN4kbmT7DmKnsnk7yJA0ZpJ+6PCXWHf52aU7unbBgTrQV2X\nvWynTCUWneZbOFB8gTDm/xuWiLKN57uk9G0qG1uzCh3wrPKNgqNGwEl2XnovdJz5\nrEXfB7v3hKPDkOVhi6e8ssfmBjYYSR2PKKn+tXVc/j8svh4UYnn8EibhWQKBgAyz\nGC6e+qeIFgU7BuE9T+kkq2MRJ0TPzele9EpjtkE+RjCMc89YkzMIHaZWUY5n/csG\n+2FFWGo+++ZxZBFc5uNj8cG00tH0OH6tYaQtEaHOHdmLSprXwBS0j+obceA7/xKD\n4seStyu5xntxQzsjGm3VYCRnCCMrOO3qSznOAmUVAoGBAJ8AODITOeEd4BmReQje\nfjpAqjV/NmXvFeNKU2UZ/sJYNNXN/r3AmTL7lGxEOAxxVc6DvHFLdf38mX7U3a8y\nMQpUQwcidKW+o9WPBkIGK9zntmGC4xrn7rfP0XZXsE5WQ7J2pwbwzXZTj8BrpDLk\nS3gcsuNrNlo5/k/3oUIweDoX\n-----END PRIVATE KEY-----\n",
+  "client_email": "amazon-scraping-list@third-runway-265112.iam.gserviceaccount.com",
+  "client_id": "105411207351960895191",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amazon-scraping-list%40third-runway-265112.iam.gserviceaccount.com"
+}
